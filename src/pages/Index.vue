@@ -11,7 +11,7 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">Greetings! I’m Ionuț.<br> I spend my days working as a Security professional and my nights plus my free time designing and developing websites and web apps.<br>
+      <p class="text-lg sm:text-xl">Greetings! I’m Ionuț.<br> I spend my days working as a Security professional and my nights designing and developing websites/web apps.<br>
       </p>
 
       <div class="flex justify-between items-center py-6">
